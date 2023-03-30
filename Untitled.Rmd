@@ -1,0 +1,14 @@
+---
+title: "Tutorial5"
+author: "SuyueWang_29672031"
+date: "2023-03-30"
+output: html_document
+---
+
+
+```{r}
+# Libraries
+library(tidyverse)
+library(palmerpenguins)
+```
+
